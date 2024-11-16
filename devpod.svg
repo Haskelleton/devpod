@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="207.07018mm"
+   height="14.244489mm"
+   viewBox="0 0 207.07018 14.244489"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="devpod.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.910232"
+     inkscape:cx="391.31372"
+     inkscape:cy="26.698328"
+     inkscape:window-width="1908"
+     inkscape:window-height="1044"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="47.500832"
+       y="243.75427"
+       width="685.01202"
+       height="262.50461"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.012454,-81.103051)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4636px;line-height:1;font-family:'Iosevka Fixed SS08';-inkscape-font-specification:'Iosevka Fixed SS08, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1d1d;fill-opacity:0;stroke-width:1.8"
+       x="13.258492"
+       y="92.452866"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4636px;font-family:'Iosevka Fixed SS08';-inkscape-font-specification:'Iosevka Fixed SS08, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#777777;fill-opacity:1;stroke-width:1.8"
+         x="13.258492"
+         y="92.452866"
+         id="tspan26"><tspan
+           id="tspan28"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4636px;font-family:'Iosevka Fixed SS08';-inkscape-font-specification:'Iosevka Fixed SS08, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.8"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4636px;font-family:'Iosevka Fixed SS08';-inkscape-font-specification:'Iosevka Fixed SS08, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fd5956;fill-opacity:1"
+   id="tspan6">devpod</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4636px;font-family:'Iosevka Fixed SS08';-inkscape-font-specification:'Iosevka Fixed SS08, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdc1c5;fill-opacity:1"
+   id="tspan8">:</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4636px;font-family:'Iosevka Fixed SS08';-inkscape-font-specification:'Iosevka Fixed SS08, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#107ab0;fill-opacity:1"
+   id="tspan7">~</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4636px;font-family:'Iosevka Fixed SS08';-inkscape-font-specification:'Iosevka Fixed SS08, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdc1c5;fill-opacity:1"
+   id="tspan9">$</tspan> <tspan
+   style="fill:#a6a6a6;fill-opacity:1"
+   id="tspan1">nv</tspan></tspan><tspan
+           style="fill:#a6a6a6;fill-opacity:1"
+           id="tspan2">i</tspan><tspan
+           id="tspan4"
+           style="fill:#a6a6a6;fill-opacity:0.185729">m -p ~/dev/**/*.md</tspan></tspan></text>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-![devpod](https://raw.githubusercontent.com/Haskelleton/devpod/refs/heads/main/devpod.svg)
+![devpod](./devpod.svg)
 ```shellsession
 $ podman build -t devpod .
 $ podman run -it --name=devpod -h devpod devpod:latest
@@ -10,3 +10,4 @@ $ podman run -it --name=devpod -h devpod devpod:latest
 - [ ] /dev/ volume
 - [ ] healthcheck
 - [ ] run nvim cmds to install & config LSP @ build time
+- [ ] TESTING
